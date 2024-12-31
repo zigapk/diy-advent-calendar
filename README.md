@@ -4,7 +4,7 @@ This repository contains blueprints for a DIY advent calendar using a laser cutt
 
 ![](img/complete.jpg)
 
-![](img/gift.jpg)
+![](img/gifts.jpg)
 
 The designs were created in Inkscape. Original files are saved in SVG format, while files for cutting are exported in DXF format.
 

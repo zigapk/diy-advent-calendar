@@ -15,7 +15,7 @@ The designs were created in Inkscape. Original files are saved in SVG format, wh
     - 1x cardstock `adventni_top_small`. On the laser cutter, set the graphics to cutting mode (as high speed and low power as possible, if you cutter even allows for this). This makes for a faster production and looks cleaner in my opinion.
 2. Sand and clean all layers.
 3. Glue the wooden layers together.
-4. Fill the calendar with small gifts.
+4. Fill the calendar with small gifts. I went for various sweets, soaps, a candle and even managed to stuff some socks in there.
 5. Glue the cardstock layer to the wooden layers.
 
 ## Notes:
